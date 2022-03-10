@@ -2,3 +2,5 @@ I tried to think of something clever to type here,
 but I could not!
 
 I forgot to enter a commit message.
+
+another change to practice from CLI.
