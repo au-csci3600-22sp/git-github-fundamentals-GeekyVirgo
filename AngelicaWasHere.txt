@@ -1,1 +1,3 @@
 I have successfully committed my work from VS.
+
+I have successfully committed my work from the command line.
